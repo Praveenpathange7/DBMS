@@ -56,8 +56,7 @@ Stores payment details for bookings.
 BookMyShow-Database/
 │
 ├── README.md
-├── schema.sql
-├── insert_data.sql
+├── BookMyShow.sql
 ├── queries.sql
 ```
 
